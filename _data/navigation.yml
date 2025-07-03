@@ -8,26 +8,41 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /
+  - title: "Data-Driven Site"
+    url: /#a-data-driven-personal-website
+  - title: "Getting Started"
+    url: /#getting-started
+  - title: "Site Config"
+    url: /#site-wide-configuration
+  - title: "Content & Metadata"
+    url: /#create-content--metadata
+  - title: "Edit on GitHub"
+    url: /#how-to-edit-your-site
+  - title: "More Info"
+    url: /#for-more-info
+  
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
